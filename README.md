@@ -10,7 +10,15 @@ A complete collection of **OLED Display examples** for **0.96-inch SSD1306** and
 
 This repository demonstrates almost every commonly used OLED feature, including text rendering, graphics, scrolling, animations, inversion, and software-based effects. It is suitable for beginners who want to learn OLED programming as well as developers building embedded interfaces for Arduino, ESP8266, and ESP32.
 
----
+<div align="center">
+
+<img src="https://github.com/Surya-8948/OledDispaly/blob/main/1.3incholed_with%20Arduino.png?raw=true"
+     alt="1.3 Inch OLED Display with Arduino"
+     width="100%"/>
+
+<b>Figure 1.</b> 1.3-inch SH1106 OLED Display Connection with Arduino Uno (I²C Interface)
+
+</div>
 
 # 📑 Table of Contents
 
